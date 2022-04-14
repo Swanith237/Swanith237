@@ -2,5 +2,5 @@
 - I’m currently learning C# and Javascript
 - My fav programming language is Python
 - I'm 13 years old 
-- Add me on Discord: Swanith#6129
+- Add me on Discord: FightKnight#6129
 - I play Minecraft and osu!.
