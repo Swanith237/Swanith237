@@ -1,6 +1,6 @@
 - Hi, I’m Swanith!
-- I’m currently learning C# and Javascript
-- My fav programming language is Python
-- I'm 13 years old 
-- Add me on Discord: Swanith#6129
-- I play Minecraft and osu!.
+- Currently learning: C# & JavaScript
+- Primary Programming Language: Python
+- Age: 13 
+- Games: osu! & Minecraft
+- Discord: Swanith#6155
