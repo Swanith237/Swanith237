@@ -1,6 +1,5 @@
 - Hi, I’m Swanith!
 - Currently learning: C# & JavaScript
 - Primary Programming Language: Python
-- Age: 13 
 - Games: osu! & Minecraft
 - Discord: Swanith#6155
