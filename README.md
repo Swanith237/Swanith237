@@ -2,4 +2,4 @@
 - Currently learning: C# & JavaScript
 - Primary Programming Language: Python
 - Games: osu! & Minecraft
-- Discord: Swanith#6155
+- Discord: iamtheswan
