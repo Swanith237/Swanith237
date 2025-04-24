@@ -1,5 +1,2 @@
-- Hi, I’m Swanith!
-- Currently learning: C# & JavaScript
-- Primary Programming Language: Python
-- Games: osu! & Minecraft
-- Discord: swanverse
+hi im swan
+my discord: swanverse
