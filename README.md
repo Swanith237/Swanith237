@@ -1,2 +1,3 @@
-hi im swan
-my discord: swanverse
+- hi im swan
+- discord bot dev
+- add me on discord: swanverse
